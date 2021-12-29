@@ -13,7 +13,7 @@
 ### 🤹‍♀️ Hobbies
 <ul>
   <li>It's not a hobby, but I'm "Confitería Mandy"'s owner </li>
-  <li>I love photography, some photos I share on my instagram --> <a href="https://www.instagram.com/nikki.deviaje/">
+  <li>I love photography, some photos I shared on my instagram --> <a href="https://www.instagram.com/nikki.deviaje/">
   <img alt="Instagram" src="https://img.shields.io/badge/nikki.deviaje-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="20"  /></a></li>
   <li>Books, travels or a good conversation are the best panoramas!</li>
 </ul>
